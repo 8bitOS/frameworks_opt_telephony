@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0fe0c889_50cc34ff",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000025
+      },
+      "writtenOn": "2021-10-21T21:33:43Z",
+      "side": 1,
+      "message": "Hello, I receive a build error when building for oneplus 8t, a11 branch.\nhttps://ibb.co/RBtn0cM\n\nSo, the build will not continue. However, I edit SubscriptionService.java file and comment out line 4088 and the build finished successfully. Just wondering if this will cause issues running the rom. Possibly this can be fixed in device trees I guess.\n\nThanks.",
+      "revId": "dbaf401a3edc0ab23b78982fe210418ab3aaf6d4",
+      "serverId": "ab419b72-a699-4fba-91ed-29679b37fc49"
+    }
+  ]
+}
